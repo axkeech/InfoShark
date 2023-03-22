@@ -5,3 +5,5 @@ To run the file, use this command:
 > python3 ./infoshark.py filecapture.cap
 
 This project uses pyshark, geoIP2 database, and whois. Python3 is required.
+
+Credits: Adam Keech, Douglas Applegate
